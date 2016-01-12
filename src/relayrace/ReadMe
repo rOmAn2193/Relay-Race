@@ -1,0 +1,2 @@
+This program is useful because its own call stack, but accesses shared data of other threads in the same process,
+re-reads the shared data and achieves parallel processing and synchronization.  
